@@ -35,6 +35,9 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [https://github.com/toshirokubota/meet-landing-page](https://github.com/toshirokubota/meet-landing-page)
+- Live Site URL: [https://toshirokubota.github.io/meet-landing-page/](https://toshirokubota.github.io/meet-landing-page/)
+
 ## My process
 
 ### Built with
